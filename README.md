@@ -1,4 +1,5 @@
-# 2021_1_learningfairimport random, sys, time, math, pygame
+# 2021_1_learningfair
+import random, sys, time, math, pygame
 from pygame.locals import *
 
 pygame.init()
